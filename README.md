@@ -39,7 +39,7 @@ mvn install:install-file -Dfile=/<path to the sdk jar> -DgroupId=<package name> 
 
 ```
 
-For example :
+For example:
 
 ```
 mvn install:install-file -Dfile=/Users/sunil_vishnubhotla/Downloads/stellar-sdk.jar -DgroupId=com.stellar.code -DartifactId=stellar -Dversion=0.1.14 -Dpackaging=jar
